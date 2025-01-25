@@ -19,3 +19,6 @@ A simple **Tkinter** desktop application that quizzes users on Python concepts a
 2. Navigate into the project folder:
    ```bash
    cd PythonQuizApp
+3. run
+   ```bash
+   python quiz_app.py
